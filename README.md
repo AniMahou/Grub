@@ -2,11 +2,11 @@
 
 A robust, full-stack "Mini Food Delivery" platform designed to simplify the food ordering experience. This project features a modern React-based frontend and a custom Java backend with CSV-based data persistence.
 
-## Project Idea
+## 📝 Project Idea
 
 The core idea of this project is to provide a lightweight yet functional food delivery ecosystem. It demonstrates a complete flow from user authentication to real-time order tracking, bridging a responsive user interface with a custom-built server architectural pattern.
 
-## Key Features
+## ✨ Key Features
 
 - **🔐 User Authentication:** Secure signup and login system for personalized user experiences.
 - **🏠 Restaurant Discovery:** Browse through a variety of listed restaurants with search and filtering capabilities.
